@@ -1,0 +1,77 @@
+.container{
+    margin: 4% 0% 0% 4% ;
+    padding-right: 20px !important;
+}
+.arrow {
+    border: solid rgba(red, $alpha: .5);
+    border-width: 0 3px 3px 0 !important;
+    display: inline-block;
+    padding: 3px !important;
+  }
+  .up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
+  
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+  .downn{
+    color:    rgba(red, $alpha: .5);
+
+  }
+  .boredus{
+      border-radius: 16px;
+  }
+  .contentSum{
+      margin: 10px;
+  }
+  ul{
+      list-style: none;
+  }
+  .navcenter:hover{
+    background-color:rgba(red, $alpha: .5);
+}
+
+#dott{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color:rgba(red, $alpha: .5);
+    position: absolute;
+    bottom: 13px;
+    left: -11px;
+    
+}
+h6{
+    font-size: 11px;
+    font-weight: 500;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgba(red, $alpha: .2);
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgba(red, $alpha: .4);
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(red, $alpha: .7);
+  }
+  ul li a:hover{
+color: rgba(red, $alpha: .5) !important ;
+text-decoration: underline !important;
+  }
+#graph:hover{
+  color: #fff !important;
+  // background-color: rgba(red, $alpha: .5);
+}

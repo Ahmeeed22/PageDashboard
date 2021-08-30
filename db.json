@@ -1,0 +1,29 @@
+{
+  "stations": [
+    {
+      "totalsales": 62.06,
+      "compressionstate": "compression",
+      "maxtransactionberhour": "20",
+      "totalvalue": 120,
+      "totaltransactioncount": 210,
+      "maxtransactiondatetime": "8/1/2021 | 10.16 Am"
+    },
+    {
+      "totalsales": 62.04,
+      "compressionstate": "compression",
+      "maxtransactionberhour": "20",
+      "totalvalue": 120,
+      "totaltransactioncount": 260,
+      "maxtransactiondatetime": "8/1/2021 | 10.16 Am"
+    },
+    {
+      "totalsales": 62.5,
+      "compressionstate": "compression",
+      "maxtransactionberhour": "20",
+      "totalvalue": 90,
+      "totaltransactioncount": 410,
+      "maxtransactiondatetime": "8/1/2021 | 10.16 Am"
+    }
+  ]
+
+}
